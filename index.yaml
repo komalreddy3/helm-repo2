@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  keeperChart:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2024-02-05T18:27:01.677256872+05:30"
+    description: keeper app chart
+    digest: ecbec9595da3d711dc25a961ca90a017fcacba9f399ffa5e57a6a2c335595aff
+    name: keeperChart
+    urls:
+    - Packages/keeperChart-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-02-05T18:27:01.676884104+05:30"
